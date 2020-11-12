@@ -10,11 +10,9 @@ ISO kalıbı olarak hangi işletim sistemi üzerine kurulum yapacaksanız ilgili
 
 Aşağıdaki adreste bulunan sürümlerden güncel olan **Pardus 19.x Sunucu \(64-bit\)** sürümü bilgisayarınıza indirilir.
 
-
 ### 1.b. Ubuntu ISO kalıbını indirme
 
 Aşağıdaki adreste bulunan sürümlerden güncel olan Ubuntu Sunucu sürümü bilgisayarınıza indirilir.
-
 
 ## 2.a. Windows üzerinde ISO Kalıbı yazdırma
 
@@ -24,15 +22,13 @@ Pardus Disk Kalıbı Yazıcı programını [buradan](http://indir.pardus.org.tr/
 
 ![](../../.gitbook/assets/disk1.png)
 
-2. Bilgisayarınıza takılı olan \(Program otomatik tespit ederek listeler\) cihazlardan istediğinizi hedef olarak seçiniz. Seçiminizi yaptıktan sonra ileri düğmesine tıklayarak veya sola kaydırma hareketi ile bir sonraki adıma geçiniz.
+1. Bilgisayarınıza takılı olan \(Program otomatik tespit ederek listeler\) cihazlardan istediğinizi hedef olarak seçiniz. Seçiminizi yaptıktan sonra ileri düğmesine tıklayarak veya sola kaydırma hareketi ile bir sonraki adıma geçiniz.
 
 ![](../../.gitbook/assets/disk2.png)
 
-3. Listelenen disk kalıbı ve hedef cihaz teyit ettikten sonra "BAŞLAT" düğmesine basınız. Yazma işleminin başlaması için gelen uyarıyı "EVET" diyerek onaylayınız.
-
-4. Yazma işlemi başladıktan sonra dilerseniz iptal edip disk kalıbınızı veya hedef cihazınızı değiştirerek tekrar başlatabilirsiniz.
-
-5. Yazma işlemi bittikten sonra "Yazma işlemi Tamamlandı !" yazısı ile birlikte, önyüklenebilir Linux USB ortamınız artık hazır, çıkartıp kullanabilirsiniz.
+1. Listelenen disk kalıbı ve hedef cihaz teyit ettikten sonra "BAŞLAT" düğmesine basınız. Yazma işleminin başlaması için gelen uyarıyı "EVET" diyerek onaylayınız.
+2. Yazma işlemi başladıktan sonra dilerseniz iptal edip disk kalıbınızı veya hedef cihazınızı değiştirerek tekrar başlatabilirsiniz.
+3. Yazma işlemi bittikten sonra "Yazma işlemi Tamamlandı !" yazısı ile birlikte, önyüklenebilir Linux USB ortamınız artık hazır, çıkartıp kullanabilirsiniz.
 
 ![](../../.gitbook/assets/disk3.png)
 

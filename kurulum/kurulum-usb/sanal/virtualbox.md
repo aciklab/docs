@@ -42,5 +42,5 @@ Ve sonunda aşağıdaki gibi pencerede CDROM olarak Pardus Sunucu imajının se�
 
 ![](../../../.gitbook/assets/ekran-goeruentuesue_2020-03-07_22-58-15.png)
 
-Bir sonraki adımda aşağıdaki gibi pencere üzerinde solda kurduğunuz sanal makine adına tıkladıktan sonra üstte Başlat'a veya menübar üzerinden Makine&gt;Başlat'a tıklayarak [Kurulum Süreçleri](../../kurulum-surecleri/)'nde bahsedilen süreçler için sanal makinenizde kuruluma geçebilirsiniz. 
+Bir sonraki adımda aşağıdaki gibi pencere üzerinde solda kurduğunuz sanal makine adına tıkladıktan sonra üstte Başlat'a veya menübar üzerinden Makine&gt;Başlat'a tıklayarak [Kurulum Süreçleri](../../kurulum-surecleri/)'nde bahsedilen süreçler için sanal makinenizde kuruluma geçebilirsiniz.
 

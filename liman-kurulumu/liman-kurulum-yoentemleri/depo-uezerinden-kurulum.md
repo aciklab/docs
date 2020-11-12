@@ -31,12 +31,10 @@ Kurulum sonrasında ilk yapılması gereken Yönetici parolası oluşturmak. Bun
 
 ```text
 sudo su liman
-sudo php /liman/server/artisan administrator	
+sudo php /liman/server/artisan administrator
 ```
 
 Bu adım sonunda karşınıza liman web arayüzünden giriş yapacağınız kullanıcı adı ve parolanız çıkacaktır. Liman'ı kurduğunuz sunucunun ip adresini web tarayıcınız üzerine yazıp bu bilgiler ile giriş yaparsanız Liman'ın Web arayüzüne giriş yapmış olacaksınız.
 
 ![](../../.gitbook/assets/screenshot-from-2020-06-14-18-58-36%20%281%29.png)
-
-
 

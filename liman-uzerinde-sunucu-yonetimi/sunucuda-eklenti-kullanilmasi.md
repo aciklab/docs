@@ -8,15 +8,15 @@ Sunucuya, herhangi bir eklenti ekleme yetkiniz bulunuyorsa Sunucu üzerinde Ekle
 
 ![](../.gitbook/assets/screenshot-from-2020-06-14-19-40-00.png)
 
-2. Açılan sayfada yetkiniz olan eklentilerden talep ettiklerinizi tekli veya çoklu olarak seçebilir, seçtikten sonra "Ekle" butonuna tıklayarak sunucuyu yönetmek için gerekli eklentiyi aktif etmiş olursunuz.
+1. Açılan sayfada yetkiniz olan eklentilerden talep ettiklerinizi tekli veya çoklu olarak seçebilir, seçtikten sonra "Ekle" butonuna tıklayarak sunucuyu yönetmek için gerekli eklentiyi aktif etmiş olursunuz.
 
 ![](../.gitbook/assets/screenshot-from-2020-06-14-19-41-23.png)
 
-3. Eklenti eklendikten sonra Sunucu sayfasında Eklentiler sekmesinde ve özet yankısımda Eklenti Durumları altında yeşil olarak eklentinin adı yazması gerekmektedir. İlgili eklentiye bu yeşil butona tıklayarak gidebilirsiniz.
+1. Eklenti eklendikten sonra Sunucu sayfasında Eklentiler sekmesinde ve özet yankısımda Eklenti Durumları altında yeşil olarak eklentinin adı yazması gerekmektedir. İlgili eklentiye bu yeşil butona tıklayarak gidebilirsiniz.
 
 ![](../.gitbook/assets/screenshot-from-2020-06-14-19-42-25.png)
 
-4. Eğer eklenti üzerinde gri veya kırmızı ibareler görüyorsanız sunucunun ilgili eklentiyi çalıştıracak özellikleri olmaması veya ağ bağlantısı olarak erişememesi gibi nedenler olabilmektedir. Bu gibi süreçler için kurumsal destek alınması gerekmektedir.
+1. Eğer eklenti üzerinde gri veya kırmızı ibareler görüyorsanız sunucunun ilgili eklentiyi çalıştıracak özellikleri olmaması veya ağ bağlantısı olarak erişememesi gibi nedenler olabilmektedir. Bu gibi süreçler için kurumsal destek alınması gerekmektedir.
 
 ## 2. Sunucudan eklenti kaldırılması
 

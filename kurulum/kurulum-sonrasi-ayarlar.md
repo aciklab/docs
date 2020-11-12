@@ -1,6 +1,6 @@
 # Kurulum Sonrası Ayarlar
 
-İşletim sistemini kurduktan sonra en önemli ayarlardan birisi sistemin güncel olup olmamasıdır. Bu hem güvenlik nedeni ile hem de güncel sistem araçlarının kullanılması ihtiyaçları nedeniyle önemli bir davranıştır. 
+İşletim sistemini kurduktan sonra en önemli ayarlardan birisi sistemin güncel olup olmamasıdır. Bu hem güvenlik nedeni ile hem de güncel sistem araçlarının kullanılması ihtiyaçları nedeniyle önemli bir davranıştır.
 
 ## 1. Sistemin güncelliğinin kontrol edilmesi
 
@@ -24,10 +24,10 @@ Pardus ve Ubuntu kurulumunda eğer Elle IP ayarı girmediyseniz varsayılan olar
 
 ## 2.1. Pardus Sunucu üzerinde statik IP verme
 
-Hem Pardus 17.x hem de Pardus 19.x sürümlerinde statik IP verme süreci aynıdır. Bu nedenle **/etc/network/interfaces** dosyası içerisine girilir. Bu dosya içerisinde aşağıdaki gibi bir satır bulunması gerekir. 
+Hem Pardus 17.x hem de Pardus 19.x sürümlerinde statik IP verme süreci aynıdır. Bu nedenle **/etc/network/interfaces** dosyası içerisine girilir. Bu dosya içerisinde aşağıdaki gibi bir satır bulunması gerekir.
 
 ```text
-iface eth0 inet dhcp 
+iface eth0 inet dhcp
 ```
 
 Bu ve benzeri yapıda anlatılan şey **eth0** ağ arabiriminde **DHCP** ile otomatik IP alınmasıdır. Dolayısıyla bu dosyadaki tek satırı yönetici yetkili bir hesap ile vim veya nano gibi bir araç ile açıp, aşağıdaki gibi değiştirmeniz gerekmektedir:
@@ -45,7 +45,7 @@ Bu kod dizisindeki IP adresi olarak belirtilen 192.168.1.67 IP'si yerine sizin d
 
 Ubuntu, 18.04 sürümünden sonra klasik ağ yapısı yerine netplan sistemine geçmiştir. İlk olarak ağ arabirimi ve mevcut IP'nin belirlenmesi için "ip a" komutunu uygulayarak eth0 veya ens0s3 gibi değer belirlenir.
 
-Bu adımdan sonra  **/etc/netplan/01-netcfg.yaml** dosyası içerisine girilir. Bu dosya içerisinde aşağıdaki gibi bir görüntü bulunmaktadır:
+Bu adımdan sonra **/etc/netplan/01-netcfg.yaml** dosyası içerisine girilir. Bu dosya içerisinde aşağıdaki gibi bir görüntü bulunmaktadır:
 
 ```text
 network:

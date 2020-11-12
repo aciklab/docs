@@ -11,5 +11,3 @@ sudo apt install liman
 
 Bu adım sonunda sisteminiz güncellenmiş olacaktır.
 
-
-

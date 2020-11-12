@@ -33,5 +33,3 @@ Liman MYS üzerinde kullanıcı ayarları aşağıdaki başlıklarda incelenebil
 
 ![](../../.gitbook/assets/screenshot-from-2020-06-14-20-14-36.png)
 
-
-

@@ -6,15 +6,15 @@
 
 ![Eklentiler Sayfas&#x131;](../.gitbook/assets/screenshot-from-2020-06-14-19-50-40.png)
 
-2. Eklenti Yükle ekranı açıldığında "Gözat"'a tıklayarak bilgisayarınızdaki eklentiyi seçebilirsiniz.
+1. Eklenti Yükle ekranı açıldığında "Gözat"'a tıklayarak bilgisayarınızdaki eklentiyi seçebilirsiniz.
 
 ![Eklenti Y&#xFC;kleme ekran&#x131;](../.gitbook/assets/screenshot-from-2020-06-14-19-51-54.png)
 
-3. Eklentiyi seçtikten sonra "Yükle" butonuna tıklayabilirsiniz..
+1. Eklentiyi seçtikten sonra "Yükle" butonuna tıklayabilirsiniz..
 
 ![Eklenti Se&#xE7;imi](../.gitbook/assets/screenshot-from-2020-06-14-19-52-41.png)
 
-4. Eklenti başarı ile yüklendi yazısından sonra eklentiniz HAVELSAN tarafından imzalı eklenti ise direkt olarak eklenti sayfanızda bulunacaktır.
+1. Eklenti başarı ile yüklendi yazısından sonra eklentiniz HAVELSAN tarafından imzalı eklenti ise direkt olarak eklenti sayfanızda bulunacaktır.
 
 ![Ekli eklenti bulunan sayfa](../.gitbook/assets/screenshot-from-2020-06-14-19-53-59.png)
 

@@ -8,21 +8,19 @@ Liman Kurulumunda Administrator isimli bir kullanıcı oluşturulmaktadır. Faka
 
 ![](../.gitbook/assets/screenshot-from-2020-06-14-19-06-05.png)
 
-2. Yetki verme seviyesine göre Tip olarak Kullanıcı veya Yönetici seçilerek bir isim ve mail adresi belirlenerek "Ekle" butonuna tıklanır.
+1. Yetki verme seviyesine göre Tip olarak Kullanıcı veya Yönetici seçilerek bir isim ve mail adresi belirlenerek "Ekle" butonuna tıklanır.
 
 ![](../.gitbook/assets/screenshot-from-2020-06-14-19-09-02.png)
 
-3. Bu adımdan sonra karmaşık bir parola ile kullanıcı oluşturulur. "**b&9etu%NjA**" 
+1. Bu adımdan sonra karmaşık bir parola ile kullanıcı oluşturulur. "**b&9etu%NjA**" 
 
 ![](../.gitbook/assets/screenshot-from-2020-06-14-19-09-49.png)
 
-4. Bu şekilde kullanıcı eklendikten sonra mail adresi ve Parola ile kullanıcı Liman MYS üzerine giriş yapabilmektedir. İlk defa giriş yaptıktan sonra size şifre değiştirme arayüzü çıkacaktır.
+1. Bu şekilde kullanıcı eklendikten sonra mail adresi ve Parola ile kullanıcı Liman MYS üzerine giriş yapabilmektedir. İlk defa giriş yaptıktan sonra size şifre değiştirme arayüzü çıkacaktır.
 
 ![](../.gitbook/assets/screenshot-from-2020-06-14-19-11-57.png)
 
-5. Bu adımdan sonra tekrar giriş yaparak Liman MYS arayüzüne kendi kullanıcı hesabınız ile giriş yapabilirsiniz.
+1. Bu adımdan sonra tekrar giriş yaparak Liman MYS arayüzüne kendi kullanıcı hesabınız ile giriş yapabilirsiniz.
 
 ![](../.gitbook/assets/screenshot-from-2020-06-14-19-13-07.png)
-
-
 

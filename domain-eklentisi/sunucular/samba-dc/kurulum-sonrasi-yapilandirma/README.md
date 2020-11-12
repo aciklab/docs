@@ -1,0 +1,2 @@
+# Kurulum Sonrası Yapılandırma
+

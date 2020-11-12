@@ -4,7 +4,7 @@ description: Liman MYS kullanımı için hazırlanan rehber
 
 # Liman Rehber
 
-Liman MYS'nin kurulumundan yapılandırılmasına ve açık kaynak ve kurumsal çeşitli eklentilerin kullanımı ile ilgili hazırlanan rehberdir. 
+Liman MYS'nin kurulumundan yapılandırılmasına ve açık kaynak ve kurumsal çeşitli eklentilerin kullanımı ile ilgili hazırlanan rehberdir.
 
 Liman Merkezi Yönetim Sistemi BT süreçlerinizde bulunan bütün bileşenleri uzaktan, kararlı, güvenli ve genişletilebilir yöntemler ile merkezi olarak yönetmenizi sağlar.
 

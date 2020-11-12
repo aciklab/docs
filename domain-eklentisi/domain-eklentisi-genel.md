@@ -2,7 +2,7 @@
 
 ## Eklentinin Amacı
 
-Liman MYS üzerindeki Domain eklentisi genellikle LDAP kaynakları içerisindeki Kullanıcı, Grup, Bilgisayar ve hiyerarşi üzerindeki Politikaları yönetmek için kullanılır. 
+Liman MYS üzerindeki Domain eklentisi genellikle LDAP kaynakları içerisindeki Kullanıcı, Grup, Bilgisayar ve hiyerarşi üzerindeki Politikaları yönetmek için kullanılır.
 
 ## Eklentinin Kullanılacağı Sunucular
 

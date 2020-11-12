@@ -4,7 +4,7 @@ Politika ile yönetilmek istenen GNU/Linux istemcilerde kurulu servistir. İstem
 
 Tayfa servisi; bilgisayar politikalarını ilk olarak makine başlarken, kullanıcı politikalarını ise kullanıcı giriş yaparken çekmektedir. Daha sonrasında varsayılan olarak politika tipine göre farklı zaman aralıklarında güncellemeleri kontrol etmektedir. Fakat tayfa politikasının güncellenmesi ile birlikte bu süre değiştirilebilmektedir.
 
-**Tayfa’nın görevleri:** 
+**Tayfa’nın görevleri:**
 
 * Kullanıcılar ve Bilgisayarlar için organizasyon birimine uygun politikaları kontrol etme ve değişiklik varsa veya uygulamada problem varsa güncelleme yapma.
 * Politikaların doğruluğunu kontrol etme.
@@ -12,6 +12,4 @@ Tayfa servisi; bilgisayar politikalarını ilk olarak makine başlarken, kullan�
 * Politika sonuçlarını kontrol edip logları kaptan sunucusuna gönderme.
 * Bilgisayar ile ilgili envanter kayıtlarını değişim durumunda kaptan sunucusuna gönderme.
 * Tayfa üzerinde yeni politika geliştirildi ise kaptan üzerinden sorgulama ve indirme.
-
-
 
