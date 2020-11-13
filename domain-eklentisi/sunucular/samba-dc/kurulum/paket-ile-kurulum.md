@@ -33,7 +33,18 @@ Henüz uygulanmadı. Özet olarak Winscp uygulaması ile gönderilebilmektedir.
 
 ## 2. Önceden kurulu sambayı temizleme
 
-Depodan ya da derlenerek kurulmuş samba bağımlılıkları, derlediğimiz sambadaki bağımlılıklar ile çakışabileceğinden 
+Depodan ya da derlenerek kurulmuş samba bağımlılıkları, derlediğimiz sambadaki bağımlılıklar ile çakışabileceğinden mevcut sambayı kaldırmak gerekmektedir. Aşağıdaki komut depodan kurulan samba kaldırılabilir. Fakat kalıntı bağımlılıklar ve dosyalar sorun yaratabileceğinden, samba kurulmamış temiz bir makine kullanılması önerilmektedir.
+
+```text
+if [[ $(samba --version 2> /dev/null) ]] && [[ $(dpkg -s sambahvl 2> /dev/null) -eq "" ]] ; then 
+    echo "Depodan kurulu samba kaldırılıyor"
+    sudo apt-get -y remove 'samba*[^deb]'
+    sudo apt-get autoremove -y
+    sudo rm -rf /etc/samba
+else 
+    echo "Depodan samba kurulmamis"
+fi
+```
 
 ## 3. DEB paketini kurma
 
