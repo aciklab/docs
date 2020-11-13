@@ -1,6 +1,6 @@
 # Paket ile Kurulum
 
-Elinizde bulunan "**samba-20201112-160300.deb**" veya tam sürümün yer aldığı deb paketini daha önce kurmuş olduğunuz işletim sistemi üzerine göndermeniz gerekmektedir.
+Elinizde bulunan "**samba-20201113-082908.deb**" veya tam sürümün yer aldığı deb paketini daha önce kurmuş olduğunuz işletim sistemi üzerine göndermeniz gerekmektedir.
 
 {% hint style="info" %}
 Sambayı debian tabanlı işletim sistemine kurmadan önce, daha önce samba kurulmadığından emin olunmalıdır. Bazı dağıtımlar kurulum sırasında depodan samba depodan samba kurmaktadır. Bunu engellemek için sunucuların minimal versiyonları ile kurulum yapılabilir, ya da kurulacak servisler arasından samba kaldırılabilir.
@@ -59,6 +59,6 @@ ssh sysadmin@sunucuipadresi
 Sunucuya giriş yaptıktan sonra yetkili kullanıcı yine aynı kullanıcı ise aşağıdaki komut ile kurulum başlatılır. Sunucunun yetkili kullanıcı olmasının dışında ilgili cihazın herhangi bir debian tabanlı depo sunucusuna erişebiliyor olması gerekmektedir. Depo sunucusuna erişim yoksa kurumsal destek alınması önerilmektedir.
 
 ```text
-sudo apt install -y ./samba-20201112-160300.deb
+sudo apt install -y ./samba-20201113-082908.deb
 ```
 
