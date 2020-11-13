@@ -2,9 +2,20 @@
 
 Elinizde bulunan "**samba-20201112-160300.deb**" veya tam sürümün yer aldığı deb paketini daha önce kurmuş olduğunuz işletim sistemi üzerine göndermeniz gerekmektedir.
 
-### 1. DEB paketini sunucuya gönderme
+{% hint style="info" %}
+Sambayı debian tabanlı işletim sistemine kurmadan önce, daha önce samba kurulmadığından emin olunmalıdır. Bazı dağıtımlar kurulum sırasında depodan samba depodan samba kurmaktadır. Bunu engellemek için sunucuların minimal versiyonları ile kurulum yapılabilir, ya da kurulacak servisler arasından samba kaldırılabilir.
 
-#### 1.a. GNU/Linux sistemden gönderme:
+İşletim sisteminde samba kurulu olup olmadığını aşağıdaki komut ile kontrol edebilirsiniz.
+
+```text
+samba --version
+# Version 4.9.5-Debian
+```
+{% endhint %}
+
+## 1. DEB paketini sunucuya gönderme
+
+### 1.a. GNU/Linux sistemden gönderme:
 
 Kendi bilgisayarınız GNU/Linux temelli bir bilgisayar ise temin ettiğiniz deb paketini karşı sunucu üzerine aşağıdaki komut ile SSH protokolünü kullanarak gönderebilirsiniz:
 
@@ -16,11 +27,15 @@ Bu komut kullanılırken "sysadmin" yerine sunucuya erişim sağladığınız ku
 
 Bu komutun çalışabilmesi için sunucunuzda openssh-server paketinin kurulu olması gerekmektedir ve varsayılanda bulunan güvenlik izinlerinin açık olması gerekmektedir.
 
-#### 1.b. Windows sistemden gönderme:
+### 1.b. Windows sistemden gönderme:
 
 Henüz uygulanmadı. Özet olarak Winscp uygulaması ile gönderilebilmektedir.
 
-### 2. DEB paketini kurma
+## 2. Önceden kurulu sambayı temizleme
+
+Depodan ya da derlenerek kurulmuş samba bağımlılıkları, derlediğimiz sambadaki bağımlılıklar ile çakışabileceğinden 
+
+## 3. DEB paketini kurma
 
 DEB paketini gönderdikten sonra işletim sistemi bağımsız olarak uzaktan sunucuya erişmeniz gerekmektedir. Bunun için GNU/Linux üzerinden "SSH İstemcisi" ile bağlantı kurulabileceği gibi Windows üzerinden "Putty" ile giriş yapabilirsiniz.
 
